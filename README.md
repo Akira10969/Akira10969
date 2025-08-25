@@ -2,13 +2,6 @@
 
 **System Administrator | IT Support Specialist | Automation Developer**  
 *"Automate the boring stuff, so you can focus on what really matters."*  
-
----
-
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1678.jpg" alt="Coding Banner" width="600px"/>
-</p>
-
 ---
 
 ## 🚀 About Me  
