@@ -54,12 +54,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akira10969&show_icons=true&theme=github_dark&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akira10969&theme=github-dark-blue&hide_border=true" height="180em" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Akira10969&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180em" alt="GitHub Stats"/>  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akira10969&theme=github-dark-blue&hide_border=true" height="180em" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira10969&layout=compact&theme=github_dark&hide_border=true" height="180em"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira10969&layout=compact&theme=github_dark&hide_border=true" height="180em" alt="Top Languages"/>  
 </p>
 
 ---
