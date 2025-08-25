@@ -32,17 +32,17 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Akira10969/jpsme_event/main/assets/app_screenshot.png" width="200px"><br/>
+      <span style="font-size:40px;">🎓</span><br/>
       <b>Certificate Generation Dashboard</b><br/>
       <sub>Multi-step PHP + MySQL app with attendance, quizzes, evaluations, and TCPDF-based certificate generation.</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Akira10969/PSME_Automation/main/assets/app_screenshot.png" width="200px"><br/>
+      <span style="font-size:40px;">🤖</span><br/>
       <b>PSME Automation Script</b><br/>
       <sub>Automated Excel report extraction, filtering, and MySQL integration with a Tkinter GUI.</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Akira10969/Membership_Gateway/main/assets/app_screenshot.png" width="200px"><br/>
+      <span style="font-size:40px;">📊</span><br/>
       <b>Membership Gateway Admin Dashboard</b><br/>
       <sub>PHP-based system with charts, filters, search, pagination, and record sync features.</sub>
     </td>
