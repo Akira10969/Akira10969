@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Akira10969&layout=compact&theme=github_dark&hide_border=true" height="180em](https://github-readme-stats.vercel.app/api/top-langs/?username=Akira10969&layout=compact&theme=github_dark&hide_border=true&count_private=true)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira10969&layout=compact&theme=github_dark&hide_border=true&count_private=true" height="180em" />
 </p>
 
 ---
