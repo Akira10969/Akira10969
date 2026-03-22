@@ -1,70 +1,118 @@
 # 👋 Hi, I'm Jemuel Agban  
 
-**System Administrator | IT Support Specialist | Automation Developer**  
-*"Automate the boring stuff, so you can focus on what really matters."*  
+**System Administrator | IT Support Specialist | Automation Engineer**  
+*"I build reliable systems and automate repetitive work to improve efficiency."*  
+
 ---
 
 ## 🚀 About Me  
 
-- 🖥️ Experienced **System Administrator** (Windows/Linux, Active Directory, Google Workspace)  
-- ⚡ Builder of **automation tools** using Python, Playwright, Tkinter, Bash & PowerShell  
-- 🗄️ Skilled in **database management** (MySQL, Microsoft SQL Server) & **web development** (PHP, HTML, CSS, JavaScript)  
-- ☁️ Exploring **Cloud & DevOps**: Docker, AWS SES, GitHub Actions (CI/CD), Azure (learning)  
-- 🎯 Outside work: 🚴 motorcycle rides, 📸 photography, and 📚 learning new IT practices  
+I’m an IT professional with hands-on experience in **system administration, technical support, and automation**.  
+I specialize in troubleshooting, maintaining infrastructure, and building tools that reduce manual work.
+
+- 🖥️ Manage and support **Windows & Linux systems**
+- 🔐 Experience with **Active Directory, user management, and access control**
+- ☁️ Administer **Google Workspace & email systems (AWS SES)**
+- ⚡ Build automation tools using **Python, Playwright, Tkinter, Bash & PowerShell**
+- 🗄️ Work with **MySQL & Microsoft SQL Server** for data operations and reporting
+- 🐳 Deploy and manage applications using **Docker**
+- 🔄 Familiar with **CI/CD pipelines (GitHub Actions)**
+- 📚 Currently learning **Azure & cloud infrastructure**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Core Skills  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### 💻 System Administration
+- Windows Server, Linux (Ubuntu)
+- Active Directory (User & Group Management)
+- Remote troubleshooting & system maintenance
+
+### 🧰 IT Support & Troubleshooting
+- Incident handling & root cause analysis  
+- Log analysis, debugging, and issue replication  
+- Tools: DevTools, Postman, database queries  
+
+### ⚡ Automation & Scripting
+- Python (Playwright, Pandas, Tkinter)
+- Bash & PowerShell scripting
+- Task automation & workflow optimization
+
+### 🗄️ Database Management
+- MySQL (CRUD, optimization, reporting)
+- Microsoft SQL Server (queries, data handling)
+
+### 🌐 Web & Tools
+- PHP, HTML, CSS, JavaScript
+- REST APIs & backend integration
+
+### ☁️ DevOps & Cloud (Learning & Hands-on)
+- Docker (containerization & deployment)
+- AWS SES (email services)
+- GitHub Actions (CI/CD basics)
+- Microsoft Azure (in progress)
 
 ---
 
 ## 🔥 Featured Projects  
 
-<table>
-  <tr>
-    <td align="center">
-      <span style="font-size:40px;">🎓</span><br/>
-      <b>Certificate Generation Dashboard</b><br/>
-      <sub>Multi-step PHP + MySQL app with attendance, quizzes, evaluations, and TCPDF-based certificate generation.</sub>
-    </td>
-    <td align="center">
-      <span style="font-size:40px;">🤖</span><br/>
-      <b>PSME Automation Script</b><br/>
-      <sub>Automated Excel report extraction, filtering, and MySQL integration with a Tkinter GUI.</sub>
-    </td>
-    <td align="center">
-      <span style="font-size:40px;">📊</span><br/>
-      <b>Membership Gateway Admin Dashboard</b><br/>
-      <sub>PHP-based system with charts, filters, search, pagination, and record sync features.</sub>
-    </td>
-  </tr>
-</table>
+### 🎓 Certificate Generation System  
+- Built a **multi-step web application** using PHP & MySQL  
+- Features:
+  - Attendance tracking  
+  - Quiz per speaker  
+  - Evaluation system  
+  - Automated **PDF certificate generation (TCPDF)**  
+
+---
+
+### 🤖 PSME Automation Tool  
+- Developed a **Python automation tool** using Playwright  
+- Features:
+  - Automated login & report extraction  
+  - Excel processing using Pandas  
+  - Data filtering & MySQL integration  
+  - Tkinter GUI for ease of use  
+- Result: Reduced manual processing time significantly  
+
+---
+
+### 📊 Membership Gateway Admin Dashboard  
+- Built a **PHP-based admin system**  
+- Features:
+  - Data visualization (charts)  
+  - Search, filters, pagination  
+  - Record synchronization  
+- Focus: Improving usability and admin efficiency  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akira10969&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akira10969&show_icons=true&theme=github_dark&hide_border=true" height="180em" />
   <img src="https://streak-stats.demolab.com?user=Akira10969&theme=github-dark-blue&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira10969&layout=compact&theme=github_dark&hide_border=true&count_private=true" height="180em" />
 </p>
 
 ---
 
 ## 🌍 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jemuelagban-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jemuel-agban/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Akira10969-181717?style=for-the-badge&logo=github)](https://github.com/Akira10969)  
+- 💼 LinkedIn: https://www.linkedin.com/in/jemuel-agban/  
+- 💻 GitHub: https://github.com/Akira10969  
+
+---
+
+## 🎯 Career Focus  
+
+I’m currently pursuing roles in:
+- System Administration  
+- IT Support / Application Support  
+- Infrastructure & Automation  
+
+I’m especially interested in environments where I can:
+- Troubleshoot complex systems  
+- Improve workflows through automation  
+- Work closely with engineering teams  
+
+---
