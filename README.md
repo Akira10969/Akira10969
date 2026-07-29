@@ -1,118 +1,217 @@
-# 👋 Hi, I'm Jemuel Agban  
+# 👋 Hi, I'm Jemuel Agban
 
-**System Administrator | IT Support Specialist | Automation Engineer**  
-*"I build reliable systems and automate repetitive work to improve efficiency."*  
+**Associate Infrastructure & Platform Engineer | Infrastructure Automation | System Administration**
 
----
-
-## 🚀 About Me  
-
-I’m an IT professional with hands-on experience in **system administration, technical support, and automation**.  
-I specialize in troubleshooting, maintaining infrastructure, and building tools that reduce manual work.
-
-- 🖥️ Manage and support **Windows & Linux systems**
-- 🔐 Experience with **Active Directory, user management, and access control**
-- ☁️ Administer **Google Workspace & email systems (AWS SES)**
-- ⚡ Build automation tools using **Python, Playwright, Tkinter, Bash & PowerShell**
-- 🗄️ Work with **MySQL & Microsoft SQL Server** for data operations and reporting
-- 🐳 Deploy and manage applications using **Docker**
-- 🔄 Familiar with **CI/CD pipelines (GitHub Actions)**
-- 📚 Currently learning **Azure & cloud infrastructure**
+> *I enjoy solving infrastructure problems, automating repetitive work, and continuously learning by building real-world projects.*
 
 ---
 
-## 🛠️ Core Skills  
+# 🚀 About Me
 
-### 💻 System Administration
-- Windows Server, Linux (Ubuntu)
-- Active Directory (User & Group Management)
-- Remote troubleshooting & system maintenance
+I'm an Associate Infrastructure & Platform Engineer with a background in infrastructure support, application support, and automation.
 
-### 🧰 IT Support & Troubleshooting
-- Incident handling & root cause analysis  
-- Log analysis, debugging, and issue replication  
-- Tools: DevTools, Postman, database queries  
+I work with production environments where I troubleshoot infrastructure issues, investigate application incidents, monitor systems, and improve operational efficiency through automation.
 
-### ⚡ Automation & Scripting
-- Python (Playwright, Pandas, Tkinter)
-- Bash & PowerShell scripting
-- Task automation & workflow optimization
+Rather than learning technologies only through courses, I prefer building practical projects that help me understand how systems communicate and work together.
 
-### 🗄️ Database Management
-- MySQL (CRUD, optimization, reporting)
-- Microsoft SQL Server (queries, data handling)
+Currently, I'm expanding my skills in cloud, automation, DevOps, and AI-powered workflows.
 
-### 🌐 Web & Tools
-- PHP, HTML, CSS, JavaScript
-- REST APIs & backend integration
+### What I work with
 
-### ☁️ DevOps & Cloud (Learning & Hands-on)
-- Docker (containerization & deployment)
-- AWS SES (email services)
-- GitHub Actions (CI/CD basics)
-- Microsoft Azure (in progress)
+- 🖥️ Windows Server administration and infrastructure support
+- 📈 Infrastructure monitoring using Zabbix
+- 🔍 Application troubleshooting, log analysis, and incident investigation
+- 🗄️ Microsoft SQL Server & MySQL
+- 🐳 Docker containers
+- ⚡ PowerShell, Bash, Python, JavaScript
+- 🤖 Workflow automation with n8n
+- 🔄 Git & GitHub
+- ☁️ Microsoft Azure (currently learning)
+- 🌐 APIs, integrations, and backend services
 
 ---
 
-## 🔥 Featured Projects  
+# 🛠️ Technical Skills
 
-### 🎓 Certificate Generation System  
-- Built a **multi-step web application** using PHP & MySQL  
-- Features:
-  - Attendance tracking  
-  - Quiz per speaker  
-  - Evaluation system  
-  - Automated **PDF certificate generation (TCPDF)**  
+## Infrastructure & Platform
+
+- Windows Server
+- Linux (Ubuntu)
+- Active Directory
+- IIS
+- Windows Services
+- Remote Administration
+- Infrastructure Monitoring
+- Production Support
+
+## Monitoring & Troubleshooting
+
+- Zabbix
+- SQL Server Management Studio (SSMS)
+- Root Cause Analysis
+- Log Investigation
+- Performance Monitoring
+- Incident Management
+- Application Support
+
+## Automation
+
+- n8n
+- Python
+- PowerShell
+- Bash
+- Playwright
+- Task Automation
+- API Integrations
+
+## Databases
+
+- Microsoft SQL Server
+- MySQL
+- SQL Query Optimization
+- Reporting
+- Data Validation
+
+## Development
+
+- PHP
+- JavaScript
+- HTML
+- CSS
+- REST APIs
+
+## DevOps & Cloud
+
+- Docker
+- Git
+- GitHub Actions
+- Microsoft Azure (Learning)
+- AWS SES
 
 ---
 
-### 🤖 PSME Automation Tool  
-- Developed a **Python automation tool** using Playwright  
-- Features:
-  - Automated login & report extraction  
-  - Excel processing using Pandas  
-  - Data filtering & MySQL integration  
-  - Tkinter GUI for ease of use  
-- Result: Reduced manual processing time significantly  
+# 🚀 Current Learning Journey
+
+I'm continuously investing time in learning technologies that help modern infrastructure teams become more efficient.
+
+Currently exploring:
+
+- 🤖 AI-powered automation
+- ⚡ n8n workflows
+- ☁️ Azure Infrastructure
+- 🐳 Docker
+- 🔄 DevOps practices
+- 🧠 AI Agents
+- Infrastructure as Code (next goal)
 
 ---
 
-### 📊 Membership Gateway Admin Dashboard  
-- Built a **PHP-based admin system**  
-- Features:
-  - Data visualization (charts)  
-  - Search, filters, pagination  
-  - Record synchronization  
-- Focus: Improving usability and admin efficiency  
+# 🔥 Featured Projects
+
+## 🌦️ AI Weather Alert System
+
+Built an intelligent weather notification workflow using **n8n**.
+
+**Features**
+
+- Retrieves live weather data
+- Detects rain conditions
+- Uses AI to generate human-friendly notifications
+- Sends automated email alerts
+- Demonstrates API integration and workflow automation
+
+**Tech Stack**
+
+- n8n
+- OpenWeatherMap API
+- AI Model
+- Email Automation
 
 ---
 
-## 📊 GitHub Stats  
+## 📰 AI RSS News Summarizer
+
+An automation workflow that reads RSS feeds, summarizes articles with AI, and delivers concise updates.
+
+**Purpose**
+
+Reduce information overload by automatically generating summaries of important news.
+
+---
+
+## 🤖 PSME Automation Tool
+
+Python automation built with Playwright.
+
+**Features**
+
+- Automated login
+- Report extraction
+- Excel processing
+- MySQL integration
+- Desktop GUI using Tkinter
+
+**Result**
+
+Reduced repetitive manual work and improved reporting efficiency.
+
+---
+
+## 🎓 Certificate Generation System
+
+A PHP & MySQL web application designed for seminars and events.
+
+Features include:
+
+- Attendance tracking
+- Speaker quizzes
+- Evaluation forms
+- Automated PDF certificate generation
+
+---
+
+# 📈 What Interests Me
+
+I'm passionate about solving problems involving:
+
+- Infrastructure
+- Automation
+- Monitoring
+- System Reliability
+- Platform Engineering
+- DevOps
+- Cloud Technologies
+- AI-powered Workflows
+
+I enjoy understanding **how systems work together**, identifying bottlenecks, and building solutions that eliminate repetitive manual tasks.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akira10969&show_icons=true&theme=github_dark&hide_border=true" height="180em" />
-  <img src="https://streak-stats.demolab.com?user=Akira10969&theme=github-dark-blue&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akira10969&show_icons=true&theme=github_dark&hide_border=true" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=Akira10969&theme=github-dark-blue&hide_border=true" height="180em"/>
 </p>
 
 ---
 
-## 🌍 Connect with Me  
+# 🌍 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jemuel-agban/  
-- 💻 GitHub: https://github.com/Akira10969  
+💼 LinkedIn  
+https://www.linkedin.com/in/jemuel-agban/
 
----
-
-## 🎯 Career Focus  
-
-I’m currently pursuing roles in:
-- System Administration  
-- IT Support / Application Support  
-- Infrastructure & Automation  
-
-I’m especially interested in environments where I can:
-- Troubleshoot complex systems  
-- Improve workflows through automation  
-- Work closely with engineering teams  
+💻 GitHub  
+https://github.com/Akira10969
 
 ---
+
+# 🎯 2026 Goals
+
+- Deepen my Infrastructure & Platform Engineering skills
+- Build more automation projects with n8n
+- Learn Azure and cloud architecture
+- Explore DevOps and Infrastructure as Code
+- Develop AI-powered infrastructure tools
+- Contribute to open-source projects
+- Continue documenting my learning journey through real-world projects
