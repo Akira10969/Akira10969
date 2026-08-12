@@ -148,13 +148,10 @@ PHP + MySQL web application with:
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akira10969&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akira10969&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akira10969&theme=github-dark&hide_border=true"/>
 </p>
 ---
 
