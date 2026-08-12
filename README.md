@@ -150,9 +150,9 @@ PHP + MySQL web application with:
 
 # 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akira10969&theme=github-dark&hide_border=true"/>
-</p>
+- Active in infrastructure, automation, and monitoring projects
+- Building practical PowerShell, Python, and cloud-related tools
+- Sharing learning progress through GitHub repositories and documentation
 ---
 
 # 📈 Contribution Graph
