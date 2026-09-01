@@ -1,5 +1,3 @@
-Here’s a **modernized, cleaner, copy-paste ready** version for your GitHub `README.md`.
-
 <!-- ========================= HEADER ========================= -->
 
 <div align="center">
